@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asher Chew
-- 🌱 I’m a growing AI Engineer in Singapore
+- 🌱 I’m an AI Engineer in Singapore
 - 📫 LinkedIn: https://www.linkedin.com/in/asherchew-zy/
 
 <!---
